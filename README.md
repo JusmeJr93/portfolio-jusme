@@ -1,5 +1,7 @@
 # My Portfolio
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e06c8d1280747b1a481cef0a38eaa49)](https://app.codacy.com/gh/JusmeJr93/portfolio-jusme?utm_source=github.com&utm_medium=referral&utm_content=JusmeJr93/portfolio-jusme&utm_campaign=Badge_Grade)
+
 Welcome!!! This is my personal portfolio website showcasing my skills, projects, and work experience as a React Web Developer. It includes information about my background, projects I've worked on, and contact details. The portfolio is designed to be responsive, user-friendly, and bilingual, providing a comprehensive view of my professional journey.
 
 ## Features
