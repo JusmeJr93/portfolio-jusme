@@ -17,7 +17,7 @@ const HobbieAccordion = ({
     <div
       key={i}
       onClick={handleShowText}
-      className={`flex flex-col  cursor-pointer  `}
+      className={"flex flex-col  cursor-pointer  "}
     >
       <div
         className={`flex py-6 px-8 justify-between items-center ${
